@@ -1,0 +1,50 @@
+# Build artifacts
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+Makefile2
+progress.marks
+TargetDirectories.txt
+
+# Compiled objects and libraries
+*.o
+*.obj
+*.lo
+*.la
+*.so
+*.a
+*.dll
+
+# Executables
+mygit
+mygit.exe
+
+# CMake generated
+/compile_commands.json
+
+# MyGit runtime database
+.mygit/
+
+# External / vendor build outputs
+external/build/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and test output
+*.log
+/test-output/
+coverage/
+*.gcda
+*.gcno
