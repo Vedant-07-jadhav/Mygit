@@ -17,9 +17,7 @@ TargetDirectories.txt
 *.a
 *.dll
 
-# Executables
-mygit
-mygit.exe
+
 
 # CMake generated
 /compile_commands.json
